@@ -2,7 +2,7 @@ _(Portuguese version | [Click here for the English version.](https://github.com/
 
 # Introdução
 
-Este repositório contém o discurso de classe da turma de Sistemas de Informação 2024.1 da Universidade Federal de Santa Catarina (UFSC).
+Este repositório contém o discurso de classe da turma de Sistemas de Informação 2023.2 da Universidade Federal de Santa Catarina (UFSC).
 
 Eu fui eleita oradora pelos meus colegas formandos e elaborei, em conjunto com meu amigo, e também formando, Edmilson Domingues, o discurso abaixo. Na noite de 21 de março de 2024, eu e meus colegas formandos recebemos o grau de bacharel em Sistemas de Informação por esta instituição.
 
