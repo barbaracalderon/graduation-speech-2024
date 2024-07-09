@@ -1,4 +1,4 @@
-_(Portuguese version | [Click here for the English version.](https://github.com/barbaracalderon/graduation-speech-2024/blob/main/assets/README-en.md))_
+_(Portuguese version | [Click here for the English version.](https://github.com/barbaracalderon/graduation-speech-2024/blob/main/README-en.md))_
 
 # Introdução
 
