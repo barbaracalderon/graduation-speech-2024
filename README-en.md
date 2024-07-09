@@ -1,10 +1,10 @@
-_(Portuguese version | [Click here for the English version.](https://github.com/barbaracalderon/graduation-speech-2024/blob/main/assets/README-en.md))_
+_(Portuguese version | [Click here for the English version.](https://github.com/barbaracalderon/graduation-speech-2024))_
 
 # Introduction
 
 This repository contains the graduation speech for the Information Systems class of 2024.1 at the Federal University of Santa Catarina (UFSC).
 
-I was elected valedictorian by my fellow graduates and, together with my friend and fellow graduate, Edmilson Domingues, prepared the speech below. On the evening of March 21, 2024, my fellow graduates and I received our bachelor's degree in Information Systems from this institution.
+I was elected valedictorian by my fellow graduates and, together with my friend and fellow graduate, Edmilson Domingues, prepared the speech below. On the evening of March 21, 2024, my fellow graduates and I received our bachelor's degrees in Information Systems from this institution.
 
 # Speech
 
@@ -14,7 +14,7 @@ _I am here representing the graduating class of Information Systems, and it is w
 
 _Today, as we gather to celebrate this achievement that marks the end of a journey and the beginning of new horizons, it is impossible not to reflect on the incredible challenge of computing and technology that brought us here. Many technologies are already part of our daily lives: microelectronics, which enabled personal computers and cell phones, high mathematical processing cards, AI and its branches of Machine Learning and Deep Learning, Data Science with Data Analysis, Data Analytics, and Data Mining. Big Data, Blockchain, and more recently, the almost unimaginable some time ago, DALL-E and ChatGPT. Ahead we have quantum computing._
 
-_In this global context, UFSC presents itself as a university of excellence, with its mission to “produce, systematize, and socialize philosophical, scientific, artistic, and technological knowledge, expanding and deepening human formation for professional practice, critical reflection, national and international solidarity, from the perspective of building a just and democratic society and defending the quality of life.” And we graduates are its most recent living result, impregnated with all these technologies, knowledge, and wisdom resulting from the hard work and intellectual exploration of scientists in a fabric of scientific knowledge that has unfolded for dozens and dozens of years._
+_In this global context, UFSC presents itself as a university of excellence, with its mission to “produce, systematize, and socialize philosophical, scientific, artistic, and technological knowledge, expanding and deepening human formation for professional practice, critical reflection, national and international solidarity, from the perspective of building a just and democratic society and defending the quality of life.” And we graduates are its most recent living result, filled with all these technologies, knowledge, and wisdom resulting from the hard work and intellectual exploration of scientists in a fabric of scientific knowledge that has unfolded for dozens and dozens of years._
 
 _Society invests in this quality education and expects us to be the new holders of this knowledge and with it we can give an adequate return to its most diverse aspirations. For this, it is necessary that, as graduates, we have critical thinking, driven by innovative ideas and focused on solving their problems. We have a commitment to society because, as the renowned scientist Carl Sagan said, “we live in a society absolutely dependent on science and technology, and yet have cleverly arranged things so that almost no one understands science and technology. That’s a clear prescription for disaster.” We are, and need to be, aware that there are those who place their trust in us to deal with complex and crucial issues that affect the daily lives of millions of people in intricate networks that permeate the planet in a large cosmopolitan digital village. Many do not have the technical means or the necessary knowledge to conduct deep analyses of the systems and solutions we develop. That is why our responsibility goes beyond mere lines of code or complex algorithms. Moreover, we have a duty to share our knowledge and experience with those outside our field of expertise, enabling them to make informed and responsible decisions about technological issues that directly affect them._
 
@@ -34,4 +34,4 @@ _Congratulations to all!"_
 
 # Final Considerations
 
-This speech was approved by the graduates of the class and delivered on the evening of March 21, 2024, at the UFSC Culture and Events Center.
+This speech was approved by the graduates of the class and delivered on the evening of March 21, 2024, at UFSC's "Centro de Cultura e Eventos" building, Trindade Campus.

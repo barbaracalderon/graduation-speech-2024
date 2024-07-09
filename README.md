@@ -34,4 +34,4 @@ _Parabéns a todos!"_
 
 # Considerações finais
 
-Este discurso foi aprovado pelos formandos da classe e proferido na noite de 21 de março de 2024, no Centro de Cultura e Eventos da UFSC.
+Este discurso foi aprovado pelos formandos da classe e proferido na noite de 21 de março de 2024, no Centro de Cultura e Eventos da UFSC, campus Trindade.
