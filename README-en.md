@@ -2,7 +2,7 @@ _(Portuguese version | [Click here for the English version.](https://github.com/
 
 # Introduction
 
-This repository contains the graduation speech for the Information Systems class of 2024.1 at the Federal University of Santa Catarina (UFSC).
+This repository contains the graduation speech for the Information Systems class of 2023.2 at the Federal University of Santa Catarina (UFSC).
 
 I was elected valedictorian by my fellow graduates and, together with my friend and fellow graduate, Edmilson Domingues, prepared the speech below. On the evening of March 21, 2024, my fellow graduates and I received our bachelor's degrees in Information Systems from this institution.
 
